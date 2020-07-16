@@ -1,0 +1,10 @@
+variable "iamuser" {
+    type = list(string)
+    default = ["test1","test2","test3","test4"]
+}
+
+
+
+
+
+
